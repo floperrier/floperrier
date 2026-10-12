@@ -17,13 +17,6 @@ V1, ou en renfort d'une équipe.
 
 ### Projets
 
-**[Attestable](https://github.com/floperrier/attestable)** — Le relevé
-automatisé des non-conformités RGAA d'un site, rattachées aux critères numérotés
-du référentiel. Un audit dit où vous en étiez ; un relevé dit où vous en êtes, à
-chaque déploiement. Utilisable en CLI, en GitHub Action, ou depuis
-[attestable.fr](https://attestable.fr).
-TypeScript · monorepo pnpm · Playwright
-
 **[Frameline](https://github.com/floperrier/frameline)** — Un éditeur d'œuvres
 narratives interactives qui parle la grammaire du cinéma plutôt que celle de la
 prose ou du jeu vidéo.
